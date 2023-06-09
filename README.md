@@ -1,4 +1,4 @@
-# 📦 Streamlit App Starter Kit 
+# Dismantl
 ```
 ⬆️ (Replace above with your app's name)
 ```
