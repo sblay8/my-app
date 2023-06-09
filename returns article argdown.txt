@@ -1,0 +1,23 @@
+[Summary]: The era of easily returning products is over.
+  + <Changing Return Terms>: Many retailers have changed their return policies to be less generous
+    + <Evidence 1>: Kohl’s and REI now charge for return shipping
+    + <Evidence 2>: Neiman Marcus will now charge $10 if you return after 15 days   	
+    + <Evidence 3>: Amazon charges $1 for dropping off packages at a UPS store if there is a Whole Foods or Amazon Fresh location nearby
+         + <Evidence 4>: In a 2022 analysis of 200 retailers’ return policies, the post-purchase-logistics company Narvar found that 41 percent charge some kind of return-shipping fee—up from 33 percent in 2021. That number is still rising; now it’s more like 44 percent.
+         + <Evidence 5>: Final sales are becoming more common; when deeply discounted items cannot be returned
+  + <Returns are a problem>: Returns are the intractable problem of online shopping
+    + <Evidence 6>: For nearly two decades, the expectation has been that customers can return anything that doesn’t spark joy, sometimes months after they bought it, no real reason required.
+    + <Evidence 7>: Most kinds of brick-and-mortar stores have a return rate in the single digits, but for online purchases, the average is from 15 to 30 percent; for goods where the physical, tactile experience really matters, as much as half of sales might come back.	
+    + <Normalising Online Retail>: Online retailers had to cover the costs of returns in order to break into the market
+         + <New Technology Culture Change>: People were initially averse to shopping online, it seemed like a risky way to use a credit card
+         + <Buying Market Share>: Losing money up front for market share has been a standard approach for tech companies. They lost money but destroyed incumbents. They saved money by cutting costs.
+    + <Stuck with the returns>: Consumer have gotten so used to free returns, now it's hard to change
+	 + <Abondoning generous returns untenable>: There was a reluctance, because it was like, Well, if we do this, and no one else does, it puts us at a disadvantage - Neil Saunders 
+         + <Suffering small retailers>: Small retailers suffer the most in this bind as they can't absorb return costs as easily as Amazon 
+         + <Pandemic Effect>: The pandemic has aggravated consumers' dependence on returns  
+  + <Blunt Action>: Retailers are taking action to turn the tides against free returns
+    + <Evidence 8>: Amazon has begun flagging items with unusually high return rates so that shoppers know to be wary
+    + <Evidence 9>: Some retailers, including the footwear discounter DSW, promise free returns in exchange for joining a loyalty program, which pays off by collecting valuable data about consumers’ habits and targeting them for future promotions
+    + <Evidence 10>: Retailers encourage people to return things to their own stores
+    + <Evidence 11>: Retailers urge people to use third-party retailers that serve as drop-off locations for returns-aggregation services such as HappyReturns
+    + <Evidence 12>: The author returned some pants to a retailer they had used many times and they were given a store credit because items now had to be received within 30 days to provide cash
